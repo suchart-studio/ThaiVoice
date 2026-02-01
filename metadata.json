@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Thai Voice Studio",
+  "description": "A high-quality Thai Text-to-Speech application allowing users to convert text into various tones and voices using Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": []
+}
